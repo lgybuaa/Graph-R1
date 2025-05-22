@@ -1,0 +1,4 @@
+model_name_or_path: /home/wuyicong/wyc/graph_reasoning/model/DeepSeek_R1_Distill_Qwen_1.5B
+template: deepseek3
+infer_backend: vllm  # choices: [huggingface, vllm]
+trust_remote_code: true
