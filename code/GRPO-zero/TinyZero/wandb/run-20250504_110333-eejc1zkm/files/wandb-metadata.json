@@ -1,0 +1,66 @@
+{
+  "os": "Linux-5.15.0-134-generic-x86_64-with-glibc2.27",
+  "python": "CPython 3.9.21",
+  "startedAt": "2025-05-04T11:03:33.404112Z",
+  "args": [
+    "--node-ip-address=10.134.10.105",
+    "--node-manager-port=34435",
+    "--object-store-name=/tmp/ray/session_2025-05-04_11-02-12_243648_2265797/sockets/plasma_store",
+    "--raylet-name=/tmp/ray/session_2025-05-04_11-02-12_243648_2265797/sockets/raylet",
+    "--redis-address=None",
+    "--metrics-agent-port=51349",
+    "--logging-rotate-bytes=536870912",
+    "--logging-rotate-backup-count=5",
+    "--runtime-env-agent-port=56085",
+    "--gcs-address=10.134.10.105:57830",
+    "--session-name=session_2025-05-04_11-02-12_243648_2265797",
+    "--temp-dir=/tmp/ray",
+    "--webui=",
+    "--cluster-id=3d0bdd9ea4c877891b80f2ca26b88ba6e5bbb0f1a2b6aaed82da954a",
+    "--startup-token=104",
+    "--worker-launch-time-ms=1746356537209",
+    "--node-id=47fabc1b3b0c55ef014eeaf2573ef1201af4e4974371beec1cba1cc0",
+    "--runtime-env-hash=1830736042"
+  ],
+  "program": "/home/wuyicong/conda/envs/zero/lib/python3.9/site-packages/ray/_private/workers/default_worker.py",
+  "git": {
+    "remote": "https://github.com/JerryWu-code/TinyZero.git",
+    "commit": "1a5dbd5e6bdf8de30c0078e0302d3c2dd2fc51f9"
+  },
+  "email": "1625387092@qq.com",
+  "root": "/home/wuyicong/wyc/graph_reasoning/GRPO-zero/TinyZero",
+  "host": "wuyicong",
+  "executable": "/home/wuyicong/conda/envs/zero/bin/python3",
+  "cpu_count": 52,
+  "cpu_count_logical": 104,
+  "gpu": "NVIDIA A100-SXM4-80GB",
+  "gpu_count": 2,
+  "disk": {
+    "/": {
+      "total": "20971520000",
+      "used": "12971696128"
+    }
+  },
+  "memory": {
+    "total": "128000000000"
+  },
+  "cpu": {
+    "count": 52,
+    "countLogical": 104
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.4"
+}

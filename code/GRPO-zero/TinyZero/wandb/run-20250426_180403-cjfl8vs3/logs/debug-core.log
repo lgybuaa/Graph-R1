@@ -1,0 +1,8 @@
+{"time":"2025-04-26T18:04:02.842836559Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpgy1eo6qo/port-3607800.txt","pid":3607800,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-04-26T18:04:02.945134155Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":3607800}
+{"time":"2025-04-26T18:04:02.945113919Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":39101,"Zone":""}}
+{"time":"2025-04-26T18:04:03.132290911Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:54764"}
+{"time":"2025-04-26T18:04:04.020591268Z","level":"INFO","msg":"handleInformInit: received","streamId":"cjfl8vs3","id":"127.0.0.1:54764"}
+{"time":"2025-04-26T18:04:04.831784783Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"cjfl8vs3","id":"127.0.0.1:54764"}
+{"time":"2025-04-26T18:05:35.99183751Z","level":"ERROR","msg":"connection: fatal error reading connection","error":"read tcp 127.0.0.1:39101->127.0.0.1:54764: read: connection reset by peer","id":"127.0.0.1:54764"}
+{"time":"2025-04-26T18:05:36.08043886Z","level":"INFO","msg":"Parent process exited, terminating service process."}

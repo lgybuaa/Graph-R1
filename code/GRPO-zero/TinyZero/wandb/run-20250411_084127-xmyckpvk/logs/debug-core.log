@@ -1,0 +1,6 @@
+{"time":"2025-04-11T08:41:26.472409721Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpvkoxtc24/port-351996.txt","pid":351996,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-04-11T08:41:26.583299645Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":351996}
+{"time":"2025-04-11T08:41:26.583257494Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":40479,"Zone":""}}
+{"time":"2025-04-11T08:41:26.658147295Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:54366"}
+{"time":"2025-04-11T08:41:27.455250412Z","level":"INFO","msg":"handleInformInit: received","streamId":"xmyckpvk","id":"127.0.0.1:54366"}
+{"time":"2025-04-11T08:41:28.106235794Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"xmyckpvk","id":"127.0.0.1:54366"}

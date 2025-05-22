@@ -1,0 +1,7 @@
+{"time":"2025-04-11T06:46:58.57668917Z","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/wuyicong/wyc/graph_reasoning/zero/TinyZero/TinyZero/wandb/run-20250411_064658-yn4pb5g5/logs/debug-core.log"}
+{"time":"2025-04-11T06:46:59.327253029Z","level":"INFO","msg":"created new stream","id":"yn4pb5g5"}
+{"time":"2025-04-11T06:46:59.327315693Z","level":"INFO","msg":"stream: started","id":"yn4pb5g5"}
+{"time":"2025-04-11T06:46:59.327354644Z","level":"INFO","msg":"handler: started","stream_id":"yn4pb5g5"}
+{"time":"2025-04-11T06:46:59.327378394Z","level":"INFO","msg":"sender: started","stream_id":"yn4pb5g5"}
+{"time":"2025-04-11T06:46:59.32742729Z","level":"INFO","msg":"writer: Do: started","stream_id":"yn4pb5g5"}
+{"time":"2025-04-11T06:46:59.605936938Z","level":"INFO","msg":"Starting system monitor"}

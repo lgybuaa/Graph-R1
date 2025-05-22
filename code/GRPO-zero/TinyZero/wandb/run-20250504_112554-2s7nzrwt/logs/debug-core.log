@@ -1,0 +1,6 @@
+{"time":"2025-05-04T11:25:54.012313385Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpvw2srucy/port-2297672.txt","pid":2297672,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-05-04T11:25:54.092800154Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":46507,"Zone":""}}
+{"time":"2025-05-04T11:25:54.092842752Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":2297672}
+{"time":"2025-05-04T11:25:54.169845771Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:36510"}
+{"time":"2025-05-04T11:25:55.007572959Z","level":"INFO","msg":"handleInformInit: received","streamId":"2s7nzrwt","id":"127.0.0.1:36510"}
+{"time":"2025-05-04T11:25:55.790920057Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"2s7nzrwt","id":"127.0.0.1:36510"}

@@ -1,0 +1,6 @@
+{"time":"2025-04-11T07:25:40.185651275Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpuxlpbf3y/port-4148522.txt","pid":4148522,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-04-11T07:25:40.295479841Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":4148522}
+{"time":"2025-04-11T07:25:40.295434827Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":34703,"Zone":""}}
+{"time":"2025-04-11T07:25:40.36665881Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:52844"}
+{"time":"2025-04-11T07:25:41.143845643Z","level":"INFO","msg":"handleInformInit: received","streamId":"bpu70zfj","id":"127.0.0.1:52844"}
+{"time":"2025-04-11T07:25:41.897764832Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"bpu70zfj","id":"127.0.0.1:52844"}

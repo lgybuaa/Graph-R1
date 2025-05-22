@@ -1,0 +1,6 @@
+{"time":"2025-04-11T06:35:36.439420189Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpa40awios/port-4090012.txt","pid":4090012,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-04-11T06:35:36.501951449Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":4090012}
+{"time":"2025-04-11T06:35:36.501977548Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":38069,"Zone":""}}
+{"time":"2025-04-11T06:35:36.598135148Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:43062"}
+{"time":"2025-04-11T06:35:37.375079896Z","level":"INFO","msg":"handleInformInit: received","streamId":"yd04y8g6","id":"127.0.0.1:43062"}
+{"time":"2025-04-11T06:35:38.617311158Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"yd04y8g6","id":"127.0.0.1:43062"}

@@ -1,0 +1,7 @@
+{"time":"2025-04-26T18:48:32.526520689Z","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/wuyicong/wyc/graph_reasoning/GRPO-zero/TinyZero/wandb/run-20250426_184832-gsxurejm/logs/debug-core.log"}
+{"time":"2025-04-26T18:48:33.677626223Z","level":"INFO","msg":"created new stream","id":"gsxurejm"}
+{"time":"2025-04-26T18:48:33.677702911Z","level":"INFO","msg":"stream: started","id":"gsxurejm"}
+{"time":"2025-04-26T18:48:33.677742542Z","level":"INFO","msg":"writer: Do: started","stream_id":"gsxurejm"}
+{"time":"2025-04-26T18:48:33.677767506Z","level":"INFO","msg":"sender: started","stream_id":"gsxurejm"}
+{"time":"2025-04-26T18:48:33.677818269Z","level":"INFO","msg":"handler: started","stream_id":"gsxurejm"}
+{"time":"2025-04-26T18:48:34.025860991Z","level":"INFO","msg":"Starting system monitor"}

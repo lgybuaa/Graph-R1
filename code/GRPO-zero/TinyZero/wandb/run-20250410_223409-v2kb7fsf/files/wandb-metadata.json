@@ -1,0 +1,102 @@
+{
+  "os": "Linux-5.4.143.bsk.7-amd64-x86_64-with-glibc2.36",
+  "python": "CPython 3.11.2",
+  "startedAt": "2025-04-10T14:34:09.584066Z",
+  "args": [
+    "--node-ip-address=10.176.145.218",
+    "--node-manager-port=32803",
+    "--object-store-name=/tmp/ray/session_2025-04-10_22-27-17_086096_20982/sockets/plasma_store",
+    "--raylet-name=/tmp/ray/session_2025-04-10_22-27-17_086096_20982/sockets/raylet",
+    "--redis-address=None",
+    "--metrics-agent-port=55531",
+    "--logging-rotate-bytes=536870912",
+    "--logging-rotate-backup-count=5",
+    "--runtime-env-agent-port=62399",
+    "--gcs-address=10.176.145.218:63107",
+    "--session-name=session_2025-04-10_22-27-17_086096_20982",
+    "--temp-dir=/tmp/ray",
+    "--webui=",
+    "--cluster-id=a6e149469c22905af8e23ee879d8b1190c9ade0c2e8775c3b1cae1b3",
+    "--startup-token=128",
+    "--worker-launch-time-ms=1744295244794",
+    "--node-id=ebf6a45becde4b086851aa3adcc47c9921d2ec8bc38d33cc6c98f06a",
+    "--runtime-env-hash=1830736042"
+  ],
+  "program": "/home/tiger/.local/lib/python3.11/site-packages/ray/_private/workers/default_worker.py",
+  "git": {
+    "remote": "https://github.com/JerryWu-code/TinyZero.git",
+    "commit": "1a5dbd5e6bdf8de30c0078e0302d3c2dd2fc51f9"
+  },
+  "email": "1625387092@qq.com",
+  "root": "/opt/tiger/mul_representation_reranker/TinyZero",
+  "host": "n176-145-218",
+  "executable": "/usr/bin/python3",
+  "cpu_count": 64,
+  "cpu_count_logical": 128,
+  "gpu": "NVIDIA A100-SXM4-80GB",
+  "gpu_count": 8,
+  "disk": {
+    "/": {
+      "total": "1770522226688",
+      "used": "202351923200"
+    }
+  },
+  "memory": {
+    "total": "2163870216192"
+  },
+  "cpu": {
+    "count": 64,
+    "countLogical": 128
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.4"
+}

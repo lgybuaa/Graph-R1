@@ -1,0 +1,7 @@
+{"time":"2025-04-11T08:41:27.455476539Z","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/wuyicong/wyc/graph_reasoning/zero/TinyZero/TinyZero/wandb/run-20250411_084127-xmyckpvk/logs/debug-core.log"}
+{"time":"2025-04-11T08:41:28.106082319Z","level":"INFO","msg":"created new stream","id":"xmyckpvk"}
+{"time":"2025-04-11T08:41:28.106220303Z","level":"INFO","msg":"stream: started","id":"xmyckpvk"}
+{"time":"2025-04-11T08:41:28.106327595Z","level":"INFO","msg":"handler: started","stream_id":"xmyckpvk"}
+{"time":"2025-04-11T08:41:28.106348786Z","level":"INFO","msg":"writer: Do: started","stream_id":"xmyckpvk"}
+{"time":"2025-04-11T08:41:28.106394756Z","level":"INFO","msg":"sender: started","stream_id":"xmyckpvk"}
+{"time":"2025-04-11T08:41:28.455787184Z","level":"INFO","msg":"Starting system monitor"}

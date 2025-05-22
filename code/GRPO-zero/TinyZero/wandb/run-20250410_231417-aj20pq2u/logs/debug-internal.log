@@ -1,0 +1,7 @@
+{"time":"2025-04-10T23:14:17.967500932+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/opt/tiger/mul_representation_reranker/TinyZero/wandb/run-20250410_231417-aj20pq2u/logs/debug-core.log"}
+{"time":"2025-04-10T23:14:18.946077769+08:00","level":"INFO","msg":"created new stream","id":"aj20pq2u"}
+{"time":"2025-04-10T23:14:18.946132445+08:00","level":"INFO","msg":"stream: started","id":"aj20pq2u"}
+{"time":"2025-04-10T23:14:18.946196831+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"aj20pq2u"}
+{"time":"2025-04-10T23:14:18.946209341+08:00","level":"INFO","msg":"handler: started","stream_id":"aj20pq2u"}
+{"time":"2025-04-10T23:14:18.94622949+08:00","level":"INFO","msg":"sender: started","stream_id":"aj20pq2u"}
+{"time":"2025-04-10T23:14:19.568431848+08:00","level":"INFO","msg":"Starting system monitor"}

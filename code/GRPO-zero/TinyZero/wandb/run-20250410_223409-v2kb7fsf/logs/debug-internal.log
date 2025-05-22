@@ -1,0 +1,7 @@
+{"time":"2025-04-10T22:34:09.585576947+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/opt/tiger/mul_representation_reranker/TinyZero/wandb/run-20250410_223409-v2kb7fsf/logs/debug-core.log"}
+{"time":"2025-04-10T22:34:11.432499243+08:00","level":"INFO","msg":"created new stream","id":"v2kb7fsf"}
+{"time":"2025-04-10T22:34:11.432540023+08:00","level":"INFO","msg":"stream: started","id":"v2kb7fsf"}
+{"time":"2025-04-10T22:34:11.432570081+08:00","level":"INFO","msg":"handler: started","stream_id":"v2kb7fsf"}
+{"time":"2025-04-10T22:34:11.432561773+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"v2kb7fsf"}
+{"time":"2025-04-10T22:34:11.43258211+08:00","level":"INFO","msg":"sender: started","stream_id":"v2kb7fsf"}
+{"time":"2025-04-10T22:34:11.856569586+08:00","level":"INFO","msg":"Starting system monitor"}

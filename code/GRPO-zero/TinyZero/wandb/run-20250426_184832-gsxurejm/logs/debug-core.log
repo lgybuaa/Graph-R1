@@ -1,0 +1,7 @@
+{"time":"2025-04-26T18:48:31.5702839Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpoj70ux8m/port-3669155.txt","pid":3669155,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-04-26T18:48:31.652652207Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":44205,"Zone":""}}
+{"time":"2025-04-26T18:48:31.652738242Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":3669155}
+{"time":"2025-04-26T18:48:31.730135671Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:52084"}
+{"time":"2025-04-26T18:48:32.526249386Z","level":"INFO","msg":"handleInformInit: received","streamId":"gsxurejm","id":"127.0.0.1:52084"}
+{"time":"2025-04-26T18:48:33.677717861Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"gsxurejm","id":"127.0.0.1:52084"}
+{"time":"2025-04-26T18:49:50.314793317Z","level":"INFO","msg":"Parent process exited, terminating service process."}
