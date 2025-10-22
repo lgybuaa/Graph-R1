@@ -4,7 +4,7 @@ Welcome to the official repository for the Graph-R1 project. This repository hos
 
 ## Overview
 
-This project explores the use of graph-based structures to boost reasoning capabilities within NLP models. The implemented methodologies and experiments are designed to tackle the challenges of understanding and reasoning over intricate relationships represented as graphs.
+This project explores the use of graph-based structures to boost reasoning capabilities within NLP models. The implemented methodologies and experiments are designed to tackle the challenges of understanding and reasoning over intricate relationships represented as graphs. The trained models can be found in huggingface-hub: https://huggingface.co/finduzzz.
 
 ## Repository Structure
 
